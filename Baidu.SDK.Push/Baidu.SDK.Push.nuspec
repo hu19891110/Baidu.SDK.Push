@@ -1,0 +1,32 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Baidu.SDK.Push</id>
+    <version>0.9.0</version>
+    <authors>SHI JIYONG</authors>
+    <owners>SHI JIYONG</owners>
+    <licenseUrl>https://github.com/JiyongShi/Baidu.SDK.Push/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/JiyongShi/Baidu.SDK.Push</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>
+      Net(C#) SDK for Baidu Push Service. 百度云推送.Net(C#) SDK.
+    </description>
+    <releaseNotes>支持百度推送所有基本功能(Notification推送暂未支持)</releaseNotes>
+    <copyright>Copyright 2013 @ SHIJIYONG(SHIJIYONG@HOTMAIL.COM)</copyright>
+    <tags>BAIDU PUSH</tags>
+    <dependencies>
+      <group targetFramework="net35">
+        <dependency id="Newtonsoft.Json" version="5.0.6" />
+      </group>
+    </dependencies>
+    <frameworkAssemblies>
+      <frameworkAssembly assemblyName="System" targetFramework="net35" />
+      <frameworkAssembly assemblyName="System.Core" targetFramework="net35" />
+    </frameworkAssemblies>
+  </metadata>
+  <files>
+    <file src="Baidu.SDK.Push.dll" target="lib\net35" />
+    <file src="Baidu.SDK.Push.pdb" target="lib\net35" />
+    <file src="Baidu.SDK.Push.xml" target="lib\net35" />
+  </files>
+</package>

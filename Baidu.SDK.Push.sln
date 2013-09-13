@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Baidu.SDK.Push", "Baidu.SDK.Push\Baidu.SDK.Push.csproj", "{4D51531F-D3A2-4F1F-8819-937C9E7B523B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = ".nuget", ".nuget", "{8F33C919-28B4-4F85-8009-D665A6617730}"
+	ProjectSection(SolutionItems) = preProject
+		.nuget\packages.config = .nuget\packages.config
+	EndProjectSection
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Doc", "Doc", "{CFEC3070-9953-48DF-B1E9-66ADE5CFA051}"
+	ProjectSection(SolutionItems) = preProject
+		ChangeLog.md = ChangeLog.md
+		Donations.md = Donations.md
+		LICENSE = LICENSE
+		README.md = README.md
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Baidu.SDK.Push.Test", "Baidu.SDK.Push.Test\Baidu.SDK.Push.Test.csproj", "{4BC1C7F4-439E-4F18-8BED-F657E1104D8E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Debug|x86 = Debug|x86
+		Release|.NET = Release|.NET
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4D51531F-D3A2-4F1F-8819-937C9E7B523B}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{4D51531F-D3A2-4F1F-8819-937C9E7B523B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4D51531F-D3A2-4F1F-8819-937C9E7B523B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4D51531F-D3A2-4F1F-8819-937C9E7B523B}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{4D51531F-D3A2-4F1F-8819-937C9E7B523B}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{4D51531F-D3A2-4F1F-8819-937C9E7B523B}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4D51531F-D3A2-4F1F-8819-937C9E7B523B}.Release|.NET.ActiveCfg = Release|Any CPU
+		{4D51531F-D3A2-4F1F-8819-937C9E7B523B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4D51531F-D3A2-4F1F-8819-937C9E7B523B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4D51531F-D3A2-4F1F-8819-937C9E7B523B}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{4D51531F-D3A2-4F1F-8819-937C9E7B523B}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{4D51531F-D3A2-4F1F-8819-937C9E7B523B}.Release|x86.ActiveCfg = Release|Any CPU
+		{4BC1C7F4-439E-4F18-8BED-F657E1104D8E}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{4BC1C7F4-439E-4F18-8BED-F657E1104D8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BC1C7F4-439E-4F18-8BED-F657E1104D8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BC1C7F4-439E-4F18-8BED-F657E1104D8E}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{4BC1C7F4-439E-4F18-8BED-F657E1104D8E}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{4BC1C7F4-439E-4F18-8BED-F657E1104D8E}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{4BC1C7F4-439E-4F18-8BED-F657E1104D8E}.Release|.NET.ActiveCfg = Release|Any CPU
+		{4BC1C7F4-439E-4F18-8BED-F657E1104D8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BC1C7F4-439E-4F18-8BED-F657E1104D8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BC1C7F4-439E-4F18-8BED-F657E1104D8E}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{4BC1C7F4-439E-4F18-8BED-F657E1104D8E}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{4BC1C7F4-439E-4F18-8BED-F657E1104D8E}.Release|x86.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
