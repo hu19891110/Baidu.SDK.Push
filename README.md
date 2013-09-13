@@ -88,7 +88,7 @@ nunit runner 等
 
 ## Contributing ##
 
-Shi JIyong(SHIJIYONG@HOTMAIL.COM) © Best Logistic
+Shi JIyong(SHIJIYONG@HOTMAIL.COM) © [Best Logistics Technology Co,.Ltd](http://www.800best.com)
 
 ## Credits ##
 
