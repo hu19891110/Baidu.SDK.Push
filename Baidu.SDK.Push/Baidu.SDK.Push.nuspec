@@ -13,7 +13,7 @@
     </description>
     <releaseNotes>支持百度推送所有基本功能(Notification推送暂未支持)</releaseNotes>
     <copyright>Copyright 2013 @ SHIJIYONG(SHIJIYONG@HOTMAIL.COM)</copyright>
-    <tags>BAIDU PUSH</tags>
+    <tags>Baidu Push</tags>
     <dependencies>
         <dependency id="Newtonsoft.Json" version="5.0.6" />
     </dependencies>
